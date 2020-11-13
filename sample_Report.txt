@@ -1,0 +1,10 @@
+review score category
+00uncatergorized
+
+Number of reviews: 2
+Number of truthful reviews: 0
+Number of deceptive reviews: 0
+Number of uncategorized reviews: 1
+
+Review with highest score: 0
+Review with lowest score: 0
