@@ -69,7 +69,7 @@ int main(){
     
     total_i = reviewScore(reviewWords_i, keywords, weights);
     
-    fout << 0 << total_i;
+    fout << 0 << " " << total_i;
 }
 
 

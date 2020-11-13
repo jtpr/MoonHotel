@@ -51,7 +51,7 @@ int main(){
     fout << "review score category" << endl;  // print header of file
 
     // Cycles through each file given and records data
-    for(int i = 0; i < 20; ++i) {
+    for(int i = 0; i < 99; ++i) {
 
         string filename_i = makeReviewFilename(i);
 
@@ -71,7 +71,7 @@ int main(){
 
         double total_i = reviewScore(reviewWords_i, keywords, weights);
         
-        fout << i << total_i << evaluateScore(total_i) << endl;
+        fout << i << " " << total_i << " " << evaluateScore(total_i) << endl;
         
         // Count Reviews (i starts at 0 therefore i + 1 = total number of files)
         numReviews = i + 1;  

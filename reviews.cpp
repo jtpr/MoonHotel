@@ -104,6 +104,8 @@ double reviewScore(const vector<string> &reviewWords, const vector<string> &keyw
         total = total + wordWeight(word, keywords, weights);
     }
 
+    return total;
+
 }
 
 string evaluateScore(double total){

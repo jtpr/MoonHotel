@@ -1,10 +1,108 @@
 review score category
-00uncatergorized
+0 14.04 truthful
+1 3.33 truthful
+2 15.54 truthful
+3 4.43 truthful
+4 4.14 truthful
+5 10.73 truthful
+6 20.47 truthful
+7 -2.89 uncatergorized
+8 2.57 uncatergorized
+9 11.65 truthful
+10 0.03 uncatergorized
+11 -13.06 deceptive
+12 -3.66 deceptive
+13 -8.88 deceptive
+14 5.18 truthful
+15 -18.96 deceptive
+16 -18.02 deceptive
+17 -21.61 deceptive
+18 -11.25 deceptive
+19 -15.08 deceptive
+20 0 uncatergorized
+21 0 uncatergorized
+22 0 uncatergorized
+23 0 uncatergorized
+24 0 uncatergorized
+25 0 uncatergorized
+26 0 uncatergorized
+27 0 uncatergorized
+28 0 uncatergorized
+29 0 uncatergorized
+30 0 uncatergorized
+31 0 uncatergorized
+32 0 uncatergorized
+33 0 uncatergorized
+34 0 uncatergorized
+35 0 uncatergorized
+36 0 uncatergorized
+37 0 uncatergorized
+38 0 uncatergorized
+39 0 uncatergorized
+40 0 uncatergorized
+41 0 uncatergorized
+42 0 uncatergorized
+43 0 uncatergorized
+44 0 uncatergorized
+45 0 uncatergorized
+46 0 uncatergorized
+47 0 uncatergorized
+48 0 uncatergorized
+49 0 uncatergorized
+50 0 uncatergorized
+51 0 uncatergorized
+52 0 uncatergorized
+53 0 uncatergorized
+54 0 uncatergorized
+55 0 uncatergorized
+56 0 uncatergorized
+57 0 uncatergorized
+58 0 uncatergorized
+59 0 uncatergorized
+60 0 uncatergorized
+61 0 uncatergorized
+62 0 uncatergorized
+63 0 uncatergorized
+64 0 uncatergorized
+65 0 uncatergorized
+66 0 uncatergorized
+67 0 uncatergorized
+68 0 uncatergorized
+69 0 uncatergorized
+70 0 uncatergorized
+71 0 uncatergorized
+72 0 uncatergorized
+73 0 uncatergorized
+74 0 uncatergorized
+75 0 uncatergorized
+76 0 uncatergorized
+77 0 uncatergorized
+78 0 uncatergorized
+79 0 uncatergorized
+80 0 uncatergorized
+81 0 uncatergorized
+82 0 uncatergorized
+83 0 uncatergorized
+84 0 uncatergorized
+85 0 uncatergorized
+86 0 uncatergorized
+87 0 uncatergorized
+88 0 uncatergorized
+89 0 uncatergorized
+90 0 uncatergorized
+91 0 uncatergorized
+92 0 uncatergorized
+93 0 uncatergorized
+94 0 uncatergorized
+95 0 uncatergorized
+96 0 uncatergorized
+97 0 uncatergorized
+98 0 uncatergorized
 
-Number of reviews: 2
-Number of truthful reviews: 0
-Number of deceptive reviews: 0
-Number of uncategorized reviews: 1
+Number of reviews: 100
+Number of truthful reviews: 9
+Number of deceptive reviews: 8
+Number of uncategorized reviews: 91
 
-Review with highest score: 0
-Review with lowest score: 0
+Review with highest score: 17
+Review with lowest score: 32545
